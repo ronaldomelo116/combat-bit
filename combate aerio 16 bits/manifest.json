@@ -1,0 +1,21 @@
+{
+  "name": "Divaldo Bross",
+  "short_name": "Divaldo Bross",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#d06711",
+  "theme_color": "#253d9f",
+  "description": "Um jogo de plataforma divertido, criada por Ronaldo Mello.",
+  "icons": [
+    {
+      "src": "img/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
